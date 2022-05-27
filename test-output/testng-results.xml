@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-05-25T13:35:44 EDT" name="Default suite" finished-at="2022-05-25T13:36:06 EDT" duration-ms="22447">
+  <suite started-at="2022-05-27T00:07:36 EDT" name="Default suite" finished-at="2022-05-27T00:07:48 EDT" duration-ms="11964">
     <groups>
     </groups>
-    <test started-at="2022-05-25T13:35:44 EDT" name="Default test" finished-at="2022-05-25T13:36:06 EDT" duration-ms="22447">
-      <class name="Selenium.Addcart">
-        <test-method signature="addtocart()[pri:0, instance:Selenium.Addcart@524d6d96]" started-at="2022-05-25T13:35:44 EDT" name="addtocart" finished-at="2022-05-25T13:36:06 EDT" duration-ms="22403" status="PASS">
+    <test started-at="2022-05-27T00:07:36 EDT" name="Default test" finished-at="2022-05-27T00:07:48 EDT" duration-ms="11964">
+      <class name="Selenium.all_drivers">
+        <test-method signature="alldriver()[pri:0, instance:Selenium.all_drivers@2e1d27ba]" started-at="2022-05-27T00:07:36 EDT" name="alldriver" finished-at="2022-05-27T00:07:48 EDT" duration-ms="11901" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- addtocart -->
-      </class> <!-- Selenium.Addcart -->
+        </test-method> <!-- alldriver -->
+      </class> <!-- Selenium.all_drivers -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
