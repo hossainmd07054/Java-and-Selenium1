@@ -3,7 +3,6 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="Selenium.MouseOver"/>
       <class name="Selenium.hi"/>
       <class name="Selenium.Locators"/>
       <class name="Selenium.all_drivers"/>
